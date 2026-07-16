@@ -12,11 +12,13 @@ I am currently in my fifth year of a Double Degree in Mathematics and Computer S
 ### 🏆 Milestones & Hands-on Experience
 * **Winner - Mercedes-Benz Challenge (Malackathon 2025):** A great learning experience where my team and I designed relational data models under time constraints.
 * **Fourth Place - Oracle Reto Enseña 4.0:** Gained practical exposure to cloud infrastructure and data solutions using Oracle Cloud (OCI).
+* **Creator - Phishing AI Analyzer:** Developed a Proof of Concept (PoC) Chrome Extension (Manifest V3) acting as a real-time Data Loss Prevention (DLP) and Anti-Phishing system. Integrated Google Gemini API to dynamically analyze DOM structures, detect malicious intent funneling, and prevent credential exfiltration.
 
 ### 💻 Tech Stack (Currently working with)
 * **Data & Architecture:** SQL, Relational Database Concepts, basic OCI.
-* **Programming & Logic:** Java, Python.
-* **Data Science:** Jupyter Notebooks, introductory Machine Learning models.
+* **Programming & Logic:** Java, Python, JavaScript.
+* **Web & Cybersecurity:** Chrome Extensions (Manifest V3), DOM Manipulation, Web Security principles.
+* **Data Science:** Jupyter Notebooks, introductory Machine Learning models, LLM API Integration (Google Gemini), Prompt Engineering.
 
 ### 🎯 What I'm Looking For
 My primary focus is to successfully complete my degree while preparing myself for the tech industry. Once I graduate, I am looking for an opportunity to enter the job market to learn as much as possible from experienced professionals. I am highly motivated to join a team with a strong engineering culture where I can absorb new skills and do my absolute best to add value from day one.
